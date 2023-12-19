@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi I'm CaesarMundi 👋
+
+### Who I am
++Working as an engineer
++Background in physics, environmental sciences, and music
+
+### Working on
++Image recognition
+
+### Fun Fact
++Chickens are dinosaurs
 
 <!--
 **CaesarMundi/CaesarMundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
