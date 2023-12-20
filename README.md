@@ -1,13 +1,17 @@
 # Hi I'm CaesarMundi 👋
 
-### Who I am
+### Who I am ⚙️
 + Working as an engineer
 + Background in physics, environmental sciences, and music
 
-### Working on
+### Working on 👁️
 + Image recognition
 
-### Fun Fact
+### Languages 💬
++ Python, VBA (Proficient)
++ C++, Java, Assembly (Basic)
+
+### Fun Fact 🐔
 + Chickens are dinosaurs
 
 <!--
