@@ -1,7 +1,7 @@
 # Hi I'm CaesarMundi 👋
 
 ### Who I am ⚙️
-+ Working as an engineer
++ Working as a senior engineer
 + Background in physics, environmental sciences, and music
 
 ### Working on 👁️
