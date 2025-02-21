@@ -6,6 +6,7 @@
 
 ### Working on 👁️
 + Image recognition
++ Automation
 
 ### Languages 💬
 + Python, VBA (Proficient)
